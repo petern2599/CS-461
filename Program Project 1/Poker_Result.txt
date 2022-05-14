@@ -1,0 +1,29 @@
+============ Poker Monte Carlo Simulation ============
+
+Player's hand is evaluated as High Card 492 times.
+Average win percentage for High Card is: 0.196204
+
+Player's hand is evaluated as Pair 430 times.
+Average win percentage for Pair is: 0.71752
+
+Player's hand is evaluated as Two Pairs 48 times.
+Average win percentage for Two Pairs is: 0.948137
+
+Player's hand is evaluated as Three-of-a-Kind 21 times.
+Average win percentage for Three-of-a-Kind is: 0.9826
+
+Player's hand is evaluated as Straight 6 times.
+Average win percentage for Straight is: 0.995933
+
+Player's hand is evaluated as Flush 1 times.
+Average win percentage for Flush is: 0.9986
+
+Player's hand is evaluated as Full House 2 times.
+Average win percentage for Full House is: 0.9993
+
+There was no occurrence of evaluating player's hand as Four-of-a-Kind...
+
+There was no occurrence of evaluating player's hand as Straight Flush...
+
+There was no occurrence of evaluating player's hand as Royal Flush...
+======================================================
